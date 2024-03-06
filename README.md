@@ -34,6 +34,10 @@ ROMAN-BANK-JS is a simple banking system developed in JavaScript. The system ope
 
 ### Screenshots
 ![Screenshot of Home Page](screenshots/Screenshot_4.png)
+
 ![Screenshot of Home Page1](screenshots/Screenshot_5.png)
-![Screenshot of Home Page2](screenshots/Screenshot_6.png)
+
 ![Screenshot of Home Page3](screenshots/Screenshot_8.png)
+
+![Screenshot of Home Page2](screenshots/Screenshot_6.png)
+
